@@ -1,6 +1,6 @@
 # Book Sale Dashboard 📚📊
 ![Dashboard Görseli](Dashboard.png)
-Bu projede Power BI kullanarak kitap satış verilerini analiz ettim.
+- Bu projede Power BI kullanarak kitap satış verilerini analiz ettim. DAX fonksiyonlarına giriş yaptım.
 
 ## İçerik
 - Satış Adedi ve Toplam Gelir
