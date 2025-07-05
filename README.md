@@ -1,5 +1,5 @@
 # Book Sale Dashboard 📚📊
-
+![Dashboard Görseli](resim1.png)
 Bu projede Power BI kullanarak kitap satış verilerini analiz ettim.
 
 ## İçerik
